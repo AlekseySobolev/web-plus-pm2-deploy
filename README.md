@@ -2,6 +2,6 @@
 
 Стартеркит проекта по автоматизации деплоя фронтенда и бэкенда при помощи pm2 (pm2 deploy)
 
-IP адрес 51.250.100.157
-Frontend https://alekseysobolev.students.nomoredomainsclub.ru
-Backend https://api.alexsobolev.students.nomoredomainsclub.ru
+*IP адрес 51.250.100.157
+*Frontend https://alekseysobolev.students.nomoredomainsclub.ru
+*Backend https://api.alexsobolev.students.nomoredomainsclub.ru
