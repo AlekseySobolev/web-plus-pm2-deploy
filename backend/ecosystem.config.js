@@ -8,7 +8,7 @@ const {
 
 module.exports = {
   apps: [{
-    name: 'api-service',
+    name: 'backend',
     script: './dist/app.js',
   }],
 
